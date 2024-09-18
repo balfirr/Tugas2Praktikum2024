@@ -17,7 +17,7 @@ Proses passing data:
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1Q8qKNtesY4C7KupzIIxyLCzjnnli-eeR/view?usp=drive_link)
+![Input data ke form](https://drive.google.com/file/d/1hLMz4eemryYisJixxg0QVLXM97CSgqNh/view?usp=drive_link)
 
-![App Screenshot](https://drive.google.com/file/d/1hLMz4eemryYisJixxg0QVLXM97CSgqNh/view?usp=drive_link)
+![Tampilan data](https://drive.google.com/file/d/1Q8qKNtesY4C7KupzIIxyLCzjnnli-eeR/view?usp=drive_link)
 
