@@ -17,7 +17,7 @@ Proses passing data:
 
 ## Screenshots
 
-![Input data ke form](https://drive.google.com/file/d/1hLMz4eemryYisJixxg0QVLXM97CSgqNh/view?usp=drive_link)
+![Input data ke form](https://github.com/balfirr/Tugas2Praktikum2024/blob/506ea3f270accbfbad78db0c864a9c0e81824dde/Screenshot%202024-09-18%20143305.png)
 
-![Tampilan data](https://drive.google.com/file/d/1Q8qKNtesY4C7KupzIIxyLCzjnnli-eeR/view?usp=drive_link)
+![Tampilan data](https://github.com/balfirr/Tugas2Praktikum2024/blob/506ea3f270accbfbad78db0c864a9c0e81824dde/Screenshot%202024-09-18%20143322.png)
 
