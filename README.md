@@ -1,16 +1,5 @@
-# Tugas Pertemuan 2
 
-Fork dan clone repository ini, lalu jalankan perintah 
-```
-flutter pub get
-```
-Buatlah tampilan form yang berisi nama, nim, dan tahun lahir pada file `ui/form_data.dart`, lalu buatlah tampilan hasil dari input data tersebut pada file `ui/tampil_data.dart`
-
-JELASKAN PROSES PASSING DATA DARI FORM MENUJU TAMPILAN DENGAN FILE `README.md`
-
-Buat tampilan semenarik mungkin untuk dilihat.
-
-
+# Penjelasan
 Nama : Muhammad Iqbal Firmansyah
 
 NIM : H1D022079
@@ -23,7 +12,12 @@ Proses passing data:
 3. Untuk memindahkan pengguna dari halaman form_data ke halaman tampil_data, digunakan Navigator.push
 4. Maka data yang telah dimasukkan akan ditampilkan pada halaman tampil_data
 
-## Screenshot
-Contoh :
-![Lampiran Form](form.png)
-![Lampiran Hasil](hasil.png)
+
+
+
+## Screenshots
+
+![App Screenshot](https://drive.google.com/file/d/1Q8qKNtesY4C7KupzIIxyLCzjnnli-eeR/view?usp=drive_link)
+
+![App Screenshot](https://drive.google.com/file/d/1hLMz4eemryYisJixxg0QVLXM97CSgqNh/view?usp=drive_link)
+
